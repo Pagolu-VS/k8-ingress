@@ -2,7 +2,7 @@
 
 ## AWS Load Balancer Controller Architecture
 
-![AWS Load Balancer Controller](image/Ingress Controller.jpg)
+![AWS Load Balancer Controller](image\Ingress Controller.jpg)
 
 ### OIDC provider
 trust and authentication provider
