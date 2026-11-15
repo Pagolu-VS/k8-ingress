@@ -1,7 +1,5 @@
 # Ingress Controller
 
-## AWS Load Balancer Controller Architecture
-
 ![AWS Load Balancer Controller](image/IngressController.jpg)
 
 ### OIDC provider
